@@ -3,34 +3,20 @@ title: Mutant Narratives
 layout: default
 navigation_weight: 9
 ---
-# Article Title ( From Front Matter Above )
+# Mutant Narratives
 
-Place the introducing line of text ie.) the 'tagline' here ...
+Narratives with no basis in logic or fact, or narratives with a basis in a set of "alternative facts" ie.) a 'Mutated Narrative' may all become widely disseminated and wildly believed over time, given time.
 
 ## Table O Contents
 
 - TOC
 {:toc}
 
-## Subtitle
+## The Battle of The Political Narrative
 
-More to come ...
-
-***
-
-**Source**: [Instructional Jekyll Tips n Vids by Cloud Cannon](https://learn.cloudcannon.com/){:target="_blank"}
-
-
-
-The Battle of The Political Narrative
-
-Fact. Narratives with no basis in logic or fact, or narratives with a basis in a set of "alternative facts" ie.) a 'Mutated Narrative' may all become widely disseminated and wildly believed over time, given time.
-
-Indeed, the ability of the individual human mind to discern the difference between the two types of false narratives, one illogical, the other mutated on a short term time scale remains problematic.
+The ability of the individual human mind to discern the difference between the two types of false narratives, one illogical, the other mutated on a short term time scale remains problematic.
 
 A false narrative can lead to a common psychosis called the "Paranoid Personality Disorder" or PPD which in turn will undermine economic decision making, risk taking, and consumption.
-
-The Political Narrative
 
 So, what exactly is a "political narrative"?
 
@@ -40,7 +26,7 @@ The resultant story can then be easily understood and translated by the common c
 
 To relieve the anxiety and burden of this new understanding, the narrative is then transferred and shared among group members thus moving the impact zone from one member of the tribe to another.
 
-1920 - 1921
+## Flashback: 1920 - 1921
 
 In 1920 - 1921, during the period of the "forgotten" flash economic depression in the United States that corresponded with the incoming administration of Warren G Hardig, consumers clammed way up to the point of boycott due to the perceived post World War I exorbitant prices that were then being offered for both goods and services across the board.
 
@@ -58,4 +44,6 @@ After opening up still lower the next day, before noon ... "speculators" kicked 
 
 Not so in '29 ... the effect of THAT debacle lingered for decades creating a continued net decrement in consumer spending up until the engines of war cranked a super demand for labor once again.
 
-Source: Narrative Economics by Robert Shiller, Jan #2017
+***
+
+**Source**: [Narrative Economics by Robert Shiller, Jan #2017](http://cowles.yale.edu/sites/default/files/files/pub/d20/d2069.pdf){:target="_blank"}
