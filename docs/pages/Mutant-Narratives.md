@@ -34,7 +34,7 @@ Therefore, in want and wait for lower prices, consumers and businesses in genera
 
 As a result, suicides, bankruptcies, and gloom kicked up socially, as well.
 
-After the flash economic depression of 1920 - 1921 finally ran its course, and after a period of ensuing prosperity in the mid-twenties, the nation was once again plunged deeply into economic depression in 1929 only to be rescued economically by the Pearl Harbor bombing carried out by the Empire of Japan on December 9th of 1941.
+After the flash economic depression of 1920 - 1921 finally ran its course, and after a period of ensuing prosperity in the mid-twenties, the nation was once again plunged deeply into economic depression in 1929 only to be rescued economically by the Pearl Harbor bombing carried out by the Empire of Japan on December 7th of 1941.
 
 What transpired in between was the greatest long-term severe episode of macro-economic malfunction in world history triggered by the 13% one-day drop in the Dow on October 28, 1929.
 
