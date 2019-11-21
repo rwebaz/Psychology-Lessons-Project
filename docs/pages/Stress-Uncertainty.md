@@ -1,15 +1,18 @@
 ---
 title: Stress Uncertainty 
 layout: default
-navigation_weight: 9
+excerpt: A deficiency of *Brain Derived Neurotrophic Factors* caused by the stresses of early childhood indirectly damages the adult prefrontal cortex ...
+hint: Escaping from the cycle of poverty that envelopes generations in the United States of America requires an element of pure chance.
+repo: Psychology-Lessons-Project
+ver_date: 11-19-19
+navigation_weight: 8
+categories: page
 ---
-# Stress Uncertainty
-
-A deficiency of *Brain Derived Neurotrophic Factors* caused by the stresses of early childhood indirectly damages the adult prefrontal cortex.
-
-{% include toc-flammarion.md %}
+{% include toc.md %}
 
 ## Inequality and Poverty
+
+> **Hint**. {{ page.hint }}
 
 In addition, the hippocampus, as well as the adult hypothalamic adrenal system that is stimulated and regulated by the pituitary gland are affected, as well.
 
@@ -67,10 +70,12 @@ Expand your horizons, read a book.
 
 "And, keep on trying, till you reach the higher ground." ~ Stevie Wonder
 
-{% include sources-and-uses.md %}
+***
 
-### External Sources
+**Note**. The above synopsis was derived from an article written by Christian Cooper [[1](#CHRISTIANCOOPER){:.red}].
 
-- The [Project Source Links](https://mminail.github.io/Governance/Source-Goverance-Links.htm){:title="Click to Visit the Source Links page of the Governance Lessons Project at GitHub pages"}{:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+1. {:#CHRISTIANCOOPER}[The Grim Biology of The Working Poor by Christian Cooper](http://nautil.us/issue/47/consciousness/why-poverty-is-like-a-disease){:title="Click to Visit the Grim Biology of The Working Poor by Christian Cooper"}{:target="_blank"}
 
-- The [Grim Biology of The Working Poor by Christian Cooper](http://nautil.us/issue/47/consciousness/why-poverty-is-like-a-disease){:title="Click to Visit the Grim Biology of The Working Poor by Christian Cooper"}{:target="_blank"}
+***
+
+{% include patreon-link.md %}

@@ -1,24 +1,24 @@
 ---
 title: Mutant Narratives
 layout: default
-navigation_weight: 9
+excerpt: The ability of the individual human mind to discern the difference between Two (2) types of false narratives, one illogical, and the other `mutated` remains problematic at least on the horizon of the short-term timescale  ...
+hint: A `narrative` with no basis in logic or fact, or a `narrative` with a basis in a set of `alt` or alternative facts ie.) a `Mutated Narrative` may become widely disseminated and wildly believed over time, given time.
+repo: Psychology-Lessons-Project
+ver_date: 11-19-19
+navigation_weight: 8
+categories: page
 ---
-# Mutant Narratives
-
-Narratives with no basis in logic or fact, or narratives with a basis in a set of "alternative facts" ie.) a 'Mutated Narrative' may all become widely disseminated and wildly believed over time, given time.
-
-## Table O Contents
-
-- TOC
-{:toc}
+{% include toc.md %}
 
 ## The Battle of The Political Narrative
 
-The ability of the individual human mind to discern the difference between the two types of false narratives, one illogical, the other mutated on a short term time scale remains problematic.
+> **Hint**. {{ page.hint }}
 
-A false narrative can lead to a common psychosis called the "Paranoid Personality Disorder" or PPD which in turn will undermine economic decision making, risk taking, and consumption.
+A false narrative can lead to a common psychosis called `Paranoid Personality Disorder` or **PPD**.
 
-So, what exactly is a "political narrative"?
+**PPD**, in turn, will undermine economic decision making, risk taking, and consumption.
+
+So, what exactly is a `Political Narrative`?
 
 Narratives are human constructs mixed with equal parts fact, emotion, and extraneous detail that can be weaved into a human interest story.
 
@@ -46,4 +46,10 @@ Not so in '29 ... the effect of THAT debacle lingered for decades creating a con
 
 ***
 
-**Source**: [Narrative Economics by Robert Shiller, Jan #2017](http://cowles.yale.edu/sites/default/files/files/pub/d20/d2069.pdf){:target="_blank"}
+**Ping**. The above synopsis was derived from an article written by Robert Shiller [[1](#ROBERTSHILLER){:.red}].
+
+1. {:#ROBERTSHILLER}[Narrative Economics by Robert Shiller, Jan #2017](http://cowles.yale.edu/sites/default/files/files/pub/d20/d2069.pdf){:target="_blank"}
+
+***
+
+{% include patreon-link.md %}
