@@ -1,5 +1,5 @@
 ---
-title: New Title
+title: Carpe Diem
 layout: default
 excerpt: Seize the Day!
 hint: When you live today, you'll find happiness! But, when you go living in the past, you'll only find depression.
