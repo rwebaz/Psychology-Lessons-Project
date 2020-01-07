@@ -187,12 +187,16 @@ gem 'jekyll-docs', '3.8.5'
 #
 # Note. To upgrade all, run `bundle update` from the command line.
 #
-# github-pages, 175 requires activesupport, 429
+# github-pages, 175 requires activesupport
 # gem 'activesupport', '4.2.11.1'
+gem 'activesupport', '6.0.2.1'
 #
-# github-pages, 200 requires listen, rubyzip
+# github-pages, 200 requires listen
 # gem 'listen', '3.1.5'
-# gem 'rubyzip', '2.0.0'
+gem 'listen', '3.2.1'
+#
+# github-pages, 200 requires rubyzip
+gem 'rubyzip', '2.0.0'
 #
 gem 'github-pages-health-check', '1.16.1'
 #
