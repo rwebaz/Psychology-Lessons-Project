@@ -191,10 +191,6 @@ gem 'jekyll-docs', '3.8.5'
 # gem 'activesupport', '4.2.11.1'
 gem 'activesupport', '6.0.2.1'
 #
-# github-pages, 200 requires listen
-# gem 'listen', '3.1.5'
-gem 'listen', '3.2.1'
-#
 # github-pages, 200 requires rubyzip
 gem 'rubyzip', '2.0.0'
 #
@@ -254,6 +250,10 @@ gem 'jemoji', '0.11.1'
 gem 'kramdown', '1.17.0'
 #
 gem 'liquid', '4.0.3'
+#
+# github-pages, 200 requires listen
+# gem 'listen', '3.1.5'
+gem 'listen', '3.2.1'
 #
 gem 'minima', '2.5.1'
 #
