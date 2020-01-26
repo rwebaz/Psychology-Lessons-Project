@@ -34,7 +34,7 @@ Tomorrow will only take care of tomorrow if you plan for your future today, in t
 
 What's past is past.
 
-Sieze the moment of this moment, sieze the entire moments of this day!
+Seize the moment of this moment, seize the entire moments of this day!
 
 Do so, and you'll find ...
 
